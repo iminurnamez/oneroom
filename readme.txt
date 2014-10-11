@@ -1,0 +1,27 @@
+
+    who wrote the code
+    who created the artwork
+    how to run the game
+    the licence for the game (the Free Software Foundation has a handy page of free software licenses)
+    what dependencies need to be installed
+    a plug for the challenge is nice :)
+
+One Room Shack
+
+Pyweek 19 Entry by iminurnamez
+
+Requires Python and Pygame to run (tested on Python 2.7, but should hopefully run on 3.x)
+
+
+Running the game:
+
+Source:
+Download as zip
+Extract all
+From CLI type: "python oneroom.py" or click file icon 
+Fish On!
+
+Windows Executable:
+Download as zip
+Extract all
+Run one_room.bat from CLI or click file icon

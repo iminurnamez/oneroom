@@ -1,0 +1,29 @@
+The Pygame library used in this game is licensed under the Gnu Lesser General Public License Version 2.1  http://www.pygame.org/LGPL
+
+The audio files listed below are used under the indicated licenses:
+
+CC-0             http://creativecommons.org/publicdomain/zero/1.0/
+CC-BY-NC-3   http://creativecommons.org/licenses/by-nc/3.0/
+CC-BY-3        http://creativecommons.org/licenses/by/3.0/
+Sampling+    http://creativecommons.org/licenses/sampling+/1.0/
+
+
+
+Audio File: fishsplash.ogg
+Source Title: eel fishing 1.wav
+Source URL: https://www.freesound.org/people/mystiscool/sounds/7053/
+Source Author: https://www.freesound.org/people/mystiscool/
+License: CC-BY-3
+
+Audio File: splash.ogg
+Source Title:  splash6.wav
+Source URL: https://www.freesound.org/people/Rocktopus/sounds/233427/
+Source Author: https://www.freesound.org/people/Rocktopus/
+License: CC-BY-3
+
+
+Audio File: icenoise.ogg
+Source Title: Frozen Lake Ice and Water Sounds (+12.0dB) Omni Part 2.wav
+Source URL: https://www.freesound.org/people/Andrew5DMII/sounds/146423/
+Source Author: Andrew5DMII Freesound https://www.freesound.org/people/Andrew5DMII/
+License: CC-BY-3
