@@ -1,12 +1,6 @@
 
-    who wrote the code
-    who created the artwork
-    how to run the game
-    the licence for the game (the Free Software Foundation has a handy page of free software licenses)
-    what dependencies need to be installed
-    a plug for the challenge is nice :)
-
 One Room Shack
+
 
 Pyweek 19 Entry by iminurnamez
 
@@ -25,3 +19,5 @@ Windows Executable:
 Download as zip
 Extract all
 Run one_room.bat from CLI or click file icon
+
+See README.txt, attribution.txt and license.txt for more information

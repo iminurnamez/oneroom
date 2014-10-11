@@ -2,10 +2,10 @@ The Pygame library used in this game is licensed under the Gnu Lesser General Pu
 
 The audio files listed below are used under the indicated licenses:
 
-CC-0             http://creativecommons.org/publicdomain/zero/1.0/
-CC-BY-NC-3   http://creativecommons.org/licenses/by-nc/3.0/
-CC-BY-3        http://creativecommons.org/licenses/by/3.0/
-Sampling+    http://creativecommons.org/licenses/sampling+/1.0/
+CC-0             http://creativecommons.org/publicdomain/zero/1.0/legalcode    Summary:  http://creativecommons.org/publicdomain/zero/1.0/
+CC-BY-NC-3  http://creativecommons.org/licenses/by-nc/3.0/legalcode           Summary:  http://creativecommons.org/licenses/by-nc/3.0/
+CC-BY-3        http://creativecommons.org/licenses/by/3.0/legalcode               Summary:  http://creativecommons.org/licenses/by/3.0/
+Sampling+    http://creativecommons.org/licenses/sampling+/1.0/legalcode   Summary:  http://creativecommons.org/licenses/sampling+/1.0/
 
 
 
